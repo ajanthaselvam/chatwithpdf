@@ -18,4 +18,5 @@ streamlit run app.py
 .env
 
 OPENAI_API_KEY=
+
 HUGGINGFACEHUB_API_TOKEN=
