@@ -1,9 +1,11 @@
 # chatwithpdf
 
 #create env
+
 python3 -m venv .venv
 
 #Activate
+
 source .venv/bin/activate
 
 #install streamlit
